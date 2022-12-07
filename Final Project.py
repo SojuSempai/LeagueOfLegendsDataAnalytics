@@ -4,7 +4,7 @@ ISTA 161
 Professor Thompson
 12/01/2021
 
-Contributers: Stackoverflow, Randy Nguyen, Tom Nguyen
+Contributers: Stackoverflow,
 '''
 
 import pandas as pd
